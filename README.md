@@ -56,5 +56,4 @@
 ---
 
 ## スクリーンショット / GIF
-例：![作品のスクショ](<img width="495" height="525" alt="ball_asobi" src="https://github.com/user-attachments/assets/db694682-f672-4eb3-9237-88a499f5fd30" />
-)
+例：![作品のスクショ]<img width="495" height="525" alt="ball_asobi" src="https://github.com/user-attachments/assets/786435ed-d592-4a64-a7bc-96ed1c81dd2c" />
